@@ -209,7 +209,9 @@ ___
 #1 ```digitsToChar```as for numbers 1 and 0 I use " " as their char. In production, this will not stay. because my code is set for just getting the last 7 numbers from the caller's phone number, and the last 7 should not be 1 or 0. 
 
 #2 ```PhoneCombinations``` only works with 7 numbers 
+
 #3 ```myfilter``` only have two rules for ```myfilter```. Every word has at least one vowel (a,e,i,o,u), and "I","U","V","J" can not be the last word. There are more rules for an English word out there but these two are the only ones I can come up with. 
+
 #4 AWS Connect Play prompt block: when the caller hears back their phone number from the prompt is not in numbers. (Looking into it)
 
 ___
